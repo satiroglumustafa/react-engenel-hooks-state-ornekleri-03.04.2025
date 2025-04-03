@@ -1,0 +1,13 @@
+.app.light {
+    background-color: #e6e6e6;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .app.dark {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+  }

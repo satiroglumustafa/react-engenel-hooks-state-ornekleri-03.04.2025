@@ -1,0 +1,26 @@
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+}
+
+.card-title {
+    min-height: 45px;
+}
+
+.card-body .btn.btn-success {
+    width: 100%;
+}
+.card-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}

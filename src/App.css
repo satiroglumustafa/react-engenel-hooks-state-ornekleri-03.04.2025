@@ -1,0 +1,10 @@
+ .primary-text{color: #f00; text-transform: uppercase;}
+ .blockArea {
+    background: #e6e6e6;
+    padding: 30px;
+    border-radius: 10px;
+}
+.blockArea.active {
+    background: #000;
+    color: #fff;
+}
