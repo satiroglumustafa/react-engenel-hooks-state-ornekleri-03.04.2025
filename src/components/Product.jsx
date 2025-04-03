@@ -1,5 +1,5 @@
-import { type } from "@testing-library/user-event/dist/type"
-import { useReducer, useRef, useState } from "react"
+ 
+import { useRef, useState } from "react"
 import { Button, Card } from "react-bootstrap"
 
 
